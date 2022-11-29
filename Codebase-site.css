@@ -10,6 +10,7 @@
     justify-content: space-between;
     text-align: center;
     padding: 25px;
+    
    
 }
 .top a{
@@ -31,6 +32,7 @@
     padding: 10px;
     margin: 27px;
     color: white;
+    border-radius: 10px;
 }
 .page-left{
     display: flex;
@@ -47,6 +49,7 @@
 .heading1 p{
     font-size: 20px;
     padding: 10px 10px 10px 10px;
+    margin: 8px;
 }
 .heading1 a{
     text-decoration: none;
@@ -61,7 +64,7 @@
 }
 .heading2 h2{
     align-items: center;
-    margin: 30px;
+    margin: 70px;
     display: flex;
     justify-content: center;
     align-items: center ;
@@ -89,9 +92,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 70px;
+    margin: 125px;
     font-size: 35px;
     text-align: center;
+    
 }
 .team-work{
     border: 2px solid ;
@@ -103,6 +107,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    border-radius: 25px;
 
 }
 .team-work img{
