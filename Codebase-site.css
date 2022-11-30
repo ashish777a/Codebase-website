@@ -156,3 +156,24 @@
     /* height: 100vh; */
     font-size: 30px;
 } 
+.fast{
+    border: 2px solid white;
+    width: 245px;
+    height: 280px;
+    border-radius: 25px;
+    padding: 18px;
+    margin-left: 310px;
+    margin-top: 35px;
+
+}
+.fast .img3 img{
+    height: 70px;
+}
+.fast h1{
+    color: white;
+    padding: 10px;
+}
+.fast p{
+    color: white;
+    padding: 10px;
+}
