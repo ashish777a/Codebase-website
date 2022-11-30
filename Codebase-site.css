@@ -141,13 +141,13 @@
 .earth{
     background-image:url("images/our-commitment-bg-1.jpeg");
     width: 100%;
-    height: 100vh;
+    height: 200vh;
     /* position: absolute; */
 }
 .page4{
     position: relative;
     top: 30px;
-    padding: 10px;
+    padding: 60px;
     color: white;
     display: flex;
     align-items: center;
@@ -157,13 +157,14 @@
     font-size: 30px;
 } 
 .fast{
-    border: 2px solid white;
-    width: 245px;
-    height: 280px;
+    border: 2px solid;
+    width: 270px;
+    height: 300px;
     border-radius: 25px;
-    padding: 18px;
+    padding: 25px;
     margin-left: 310px;
     margin-top: 35px;
+    background: rgba(0,0,0,.62);
 
 }
 .fast .img3 img{
