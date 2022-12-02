@@ -50,9 +50,9 @@
     font-size: 50px;
 }
 .heading1 p{
-    font-size: 20px;
-    padding: 10px 10px 10px 10px;
-    margin: 8px;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
 .heading1 a{
     text-decoration: none;
@@ -60,10 +60,11 @@
     background-color: blue;
     color: white;
     padding: 10px;
-    border-radius: 20px;
-    font-size: 25px;
-
+    border-radius: 10px;
+    font-size: 23px;
+    line-height: 20px;
 }
+
 .heading2{
     margin: 50px;
 }
@@ -187,7 +188,6 @@
     /* margin-right: 200px; */
 }
 .page5{
-    
     background-color: #f1f1f1;
 }
 .heading4{
@@ -205,7 +205,21 @@
 .card{
     display: flex;
     flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 .images{
-
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 60px;
+}
+.images p{
+    font-style: normal;
+}
+.img4 img{
+    height: 70px;
+    width: 80px;
 }
